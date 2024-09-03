@@ -1,0 +1,2 @@
+# mobirise-sample
+GitHub Pages
